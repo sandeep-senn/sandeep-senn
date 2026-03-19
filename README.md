@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sandeep Sen 👨‍💻, a Computer Science Engineering student focused on building practical web applications and improving problem-solving skills 🧠.<br><br>I work mainly with JavaScript and the MERN stack ⚙️ and regularly practice Data Structures & Algorithms 📊 to stay interview-ready. I enjoy writing clean, structured code and understanding the logic behind system design decisions.<br><br>I’ve built projects like an AI-powered mentor platform 🤖 and a freelancer web app 🌐, handling both frontend and backend development. Currently, I’m strengthening my skills in DSA, SQL, and core CS fundamentals 🚀.
+Hi, I’m Sandeep Sen, a Computer Science Engineering student focused on building practical web applications and improving problem-solving skills 🧠.<br><br>I work mainly with JavaScript and the MERN stack ⚙️ and regularly practice Data Structures & Algorithms 📊 to stay interview-ready. I enjoy writing clean, structured code and understanding the logic behind system design decisions.<br><br>I’ve built projects like an AI-powered mentor platform 🤖 and a freelancer web app 🌐, handling both frontend and backend development. Currently, I’m strengthening my skills in DSA, SQL, and core CS fundamentals 🚀.
 
 
 ## 🌐 Socials:
